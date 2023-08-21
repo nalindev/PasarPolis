@@ -1,18 +1,18 @@
 <h1 align="center"> PasarPolis </h1>
 <p align="center">
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/LICENSE" target="blank">
+<a href="https://github.com/nalindev/PasarPolis/blob/master/LICENSE" target="blank">
 <img src="https://img.shields.io/github/license/nalindev/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator license" />
 </a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/fork" target="blank">
+<a href="https://github.com/nalindev/PasarPolis/fork" target="blank">
 <img src="https://img.shields.io/github/forks/nalindev/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
 </a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/stargazers" target="blank">
+<a href="https://github.com/nalindev/PasarPolis/stargazers" target="blank">
 <img src="https://img.shields.io/github/stars/nalindev/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
 </a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues" target="blank">
+<a href="https://github.com/nalindev/PasarPolis/issues" target="blank">
 <img src="https://img.shields.io/github/issues/nalindev/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
 </a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/pulls" target="blank">
+<a href="https://github.com/nalindev/PasarPolis/pulls" target="blank">
 <img src="https://img.shields.io/github/issues-pr/nalindev/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
 </a>
 </p>
